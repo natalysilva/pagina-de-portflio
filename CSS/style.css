@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: rgb(10, 0, 4);
+    color: azure;
+}
+
+header{
+    width:100%;
+    height:200px;
+    background-color:  #580724;
+}
+header div{
+    width: 50%;
+    float: left;
+}
+#logo img{
+    height: 200px;
+}
+#título h1{
+    padding-top: 70px;
+}
+#contato h2{
+    padding-top: 1px;
+}
+main{
+    width: 50%;
+    float: left;
+    margin: 10px;
+}
+main div{
+    width: 70%;
+    margin: 0 auto;
+}
+.imagens{
+     width: 30%;
+     float: left;
+}
+.imagens img{
+    width: 100%;
+}
+p{
+    width: 30%;
+    float: left;
+    padding-top: 190px;
+    padding-left: 50px;
+}
+
